@@ -1,12 +1,16 @@
-VTU-CGPA is a VTU MARKS CALCULATOR SYSTEM. In this project website part has been implemented using MERN-Stack
+# Fingerprint-Voting-System-VOTEHUB
 
-Table of Contents
+```VTU-CGPA``` is a ```Student Cgpa Calculator System```. In this project website part has been implemented using ```MERN Stack```.
 
-Prerequisites and Techstack
 
-HTML
-JavaScript
-Cascading Style Sheets
-ReactJS
-NodeJS
-MongoDB
+## Prerequisites and Techstack
+  * HTML
+  * JavaScript
+  * Cascading Style Sheets
+  * ReactJS
+  * NodeJS
+  * ExpressJS
+  * MongoDB
+
+
+  
